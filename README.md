@@ -10,7 +10,7 @@ UI is fundamental to human experience, so I also have some experience in javascr
 ## Systems Programming
 - [Google Summer of Code Project in Rust Compiler](https://github.com/mav3ri3k/rust): Work done on Sandboxed and Deterministic Proc Macro using Wasm
 - [typ-browser](https://github.com/mav3ri3k/typ-browser): A simple browser made using SwiftUI and Rust. It uses typst as the document format instead of html.
-- [p2p-chat](https://github.com/mav3ri3k/p2p-chat): Pear to Pear Chat Application made in Rust and Tauri. No server required!
+- [p2p-chat](https://github.com/mav3ri3k/p2p-chat): Peer to Peer Chat Application made in Rust and Tauri. No server required!
 
 ## AI/ML Projects
 - [jax-models](https://github.com/mav3ri3k/jax-models): Deep Learning Models written in jax.
