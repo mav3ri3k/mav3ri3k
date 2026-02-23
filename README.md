@@ -4,7 +4,6 @@ I build ML systems at the compiler–model boundary.
 
 - GSoC 2024 contributor to `rustc` (sandboxed deterministic proc macros via Wasm)
 - ML intern at IIT Hyderabad (ML systems, evaluation rigor, synthetic-data workflows)
-- CSE @ VIT
 
 ## What I Work On
 
@@ -48,5 +47,5 @@ I’m currently working on ML systems + compiler workflows, especially:
 ## Contact
 
 - Email: [apurva.jpr@gmail.com](mailto:apurva.jpr@gmail.com)
-- GitHub: [mav3ri3k](https://github.com/mav3ri3k)
+- CV: [link](https://static.apurva-mishra.com/cv.pdf)
 - X: [@mav3ri3k](https://x.com/mav3ri3k)
