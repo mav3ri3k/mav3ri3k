@@ -1,25 +1,52 @@
-# Hello, I'm Apurva Mishra 👋
+# Apurva Mishra
 
-I'm software engineer with experience in Rust and Python.
+I build ML systems at the compiler–model boundary.
 
-My work spans **Systems Programming** and **Deep Learning**.
-UI is fundamental to human experience, so I also have some experience in javascript and swiftUI.
+- GSoC 2024 contributor to `rustc` (sandboxed deterministic proc macros via Wasm)
+- ML intern at IIT Hyderabad (ML systems, evaluation rigor, synthetic-data workflows)
+- CSE @ VIT
 
-# 🚀 My Work
+## What I Work On
 
-## Systems Programming
-- [Google Summer of Code Project in Rust Compiler](https://github.com/mav3ri3k/rust): Work done on Sandboxed and Deterministic Proc Macro using Wasm
-- [typ-browser](https://github.com/mav3ri3k/typ-browser): A simple browser made using SwiftUI and Rust. It uses typst as the document format instead of html.
-- [p2p-chat](https://github.com/mav3ri3k/p2p-chat): Peer to Peer Chat Application made in Rust and Tauri. No server required!
+- Compiler/runtime systems for ML workloads
+- Reproducible model training + evaluation pipelines
+- Applied LLM tooling and experimentation in JAX/Rust
 
-## AI/ML Projects
-- [jax-models](https://github.com/mav3ri3k/jax-models): Deep Learning Models written in jax.
-- [demo-bert](https://github.com/mav3ri3k/demo_bert): CPU-friendly playground for experimenting with BERT embedding arithmetic.
-- [flight-delays](https://github.com/mav3ri3k/flight_delays): Flight Delays Prediction Using Machine Learning
+## Selected Work
 
-## Web Projects
-- [website](https://github.com/mav3ri3k/website): Personal Website
-- [shotty](https://github.com/mav3ri3k/shotty): URL Shortner
+### 1) Sandboxed Deterministic Proc Macros in Rust Compiler (GSoC 2024)
+- Added experimental support to run procedural macros in WebAssembly
+- Worked on compiler-runtime integration and token-stream communication
+- [Project Link](https://summerofcode.withgoogle.com/archive/2024/projects/kXG0mZoj)
 
-## Typst
-- [vit-ass](https://github.com/mav3ri3k/vit-ass): Personal template for making digital documents 
+### 2) JAX Models
+- Collection of models in pure JAX (language + vision experiments)
+- Focused on clean training loops and reproducibility
+- [Repository](https://github.com/mav3ri3k/jax-models)
+
+### 3) typ-browser
+- Browser-like app using Typst documents instead of HTML
+- Rust core + SwiftUI frontend
+- [Repository](https://github.com/mav3ri3k/typ-browser)
+
+### 4) nanoBabble
+- Minimal JAX/NNX training scaffold with multiple attention backends
+- Includes checkpointing and data pipeline support
+- [Repository](https://github.com/mav3ri3k/nanoBabble)
+
+## Writing
+- [Website](https://apurva-mishra.com)
+- [Posts](https://apurva-mishra.com/posts)
+
+## Current Focus
+
+I’m currently working on ML systems + compiler workflows, especially:
+- evaluation correctness
+- data quality
+- reproducible training loops
+
+## Contact
+
+- Email: [apurva.jpr@gmail.com](mailto:apurva.jpr@gmail.com)
+- GitHub: [mav3ri3k](https://github.com/mav3ri3k)
+- X: [@mav3ri3k](https://x.com/mav3ri3k)
